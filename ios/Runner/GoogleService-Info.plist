@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182640302567-tq8jfma46ditl8ft4guqsokjjaja44k8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182640302567-tq8jfma46ditl8ft4guqsokjjaja44k8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqu_OgzKuZvUhQy1wpj2ZKLdwbU69m50E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182640302567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codingliquids.cakeOrderingApp</string>
+	<key>PROJECT_ID</key>
+	<string>cake-delight-21f46</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cake-delight-21f46.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182640302567:ios:2178d5d0f0b6acda7b0542</string>
+</dict>
+</plist>
