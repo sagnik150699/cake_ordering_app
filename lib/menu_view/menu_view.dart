@@ -6,7 +6,7 @@ import '/menu_view/filter_button_view.dart';
 import '/menu_view/list_cakes.dart';
 import '/menu_view/new_and_best_seller_view.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:logger/logger.dart';
+
 
 import '../view_model.dart';
 
@@ -16,7 +16,7 @@ class MenuView extends HookConsumerWidget {
     final double categoryHeight = MediaQuery.of(context).size.height;
     final viewModelProvider = ref.watch(viewModel);
     final GlobalKey<ScaffoldState> _key = GlobalKey();
-    Logger logger = Logger();
+    // Logger logger = Logger();
     List<Widget> allFlavours = [
       SizedBox(width: 60),
       //First Stack
