@@ -17,22 +17,17 @@ dependencies:
 
 
   cupertino_icons: ^1.0.2
-  cloud_firestore: ^4.4.3
-  firebase_performance: ^0.9.0
-  firebase_analytics: ^10.1.4
-  firebase_messaging: ^14.2.5
-  firebase_auth: ^4.2.9
-  firebase_storage: ^11.0.14
-  firebase_core: ^2.7.0
+  cloud_firestore:
+  firebase_auth:
   logger: ^2.0.2+1
-  flutter_hooks: ^0.20.3
-  hooks_riverpod: ^2.4.3
+  flutter_hooks:
+  hooks_riverpod:
   google_fonts:
   google_sign_in:
-  url_strategy: ^0.2.0
+  url_strategy:
   url_launcher:
   flutter_svg:
-  sign_button: ^2.0.2
+  sign_button:
 
 dev_dependencies:
   flutter_test:
