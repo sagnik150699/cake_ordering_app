@@ -40,5 +40,5 @@ We love to hear from our users! If you have feedback, issues, or want to contrib
 A big shoutout to the Flutter community and everyone who supported us in this delicious journey!
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online course by coding liquids](https://flutter.codingliquids.com), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
