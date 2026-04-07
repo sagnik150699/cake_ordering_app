@@ -19,13 +19,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   cloud_firestore:
   firebase_auth:
+  google_sign_in: ^6.1.6
   logger: ^2.0.2+1
   flutter_hooks:
   hooks_riverpod:
-  google_fonts:
-  google_sign_in:
+  google_fonts: ^8.0.2
   url_strategy:
-  url_launcher:
+  url_launcher: ^6.2.4
   flutter_svg:
   sign_button:
 
@@ -35,6 +35,13 @@ dev_dependencies:
 
 
   flutter_lints: ^2.0.0
+
+dependency_overrides:
+  path_provider: ^2.1.5
+  path_provider_android: ^2.2.17
+  path_provider_windows: ^2.3.0
+  url_launcher_android: ^6.3.29
+  win32: ^6.0.0
 
 
 flutter:
